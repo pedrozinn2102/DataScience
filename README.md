@@ -1,0 +1,1 @@
+As aulas integrarão teoria e prática através da resolução de problemas reais de Ciência de Dados. O foco será o desenvolvimento de projetos onde os discentes aplicarão algoritmos de IA e modelagem preditiva para resolver demandas da comunidade, garantindo a transposição do conhecimento técnico para o impacto social.
